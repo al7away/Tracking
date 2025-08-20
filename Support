@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>[Your App Name] - Support</title>
+  <title>[متابعة] - Support</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -36,7 +36,7 @@
   </style>
 </head>
 <body>
-  <h1>[Your App Name] - Support</h1>
+  <h1>[Tracking] - Support</h1>
 
   <div class="section">
     <h2>English</h2>
@@ -50,10 +50,10 @@
   <div class="section arabic">
     <h2>الدعم</h2>
     <p>
-      شكرًا لاستخدامك تطبيق <strong>[اسم التطبيق]</strong>.  
+      شكرًا لاستخدامك تطبيق <strong>[متابعة]</strong>.  
       إذا كنت بحاجة إلى المساعدة أو لديك أي أسئلة، يرجى التواصل معنا عبر البريد الإلكتروني:
     </p>
-    <a class="email" href="mailto:youremail@example.com">youremail@example.com</a>
+    <a class="email" href="mailto:alalhaway@gmail.com">alalhaway@gmail.com</a>
   </div>
 </body>
 </html>
